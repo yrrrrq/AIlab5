@@ -119,5 +119,12 @@ pip install -r requirements.txt
 <p>3200 rows × 4 columns</p>
 </div>
 
+## 代码文件结构
+```
+|-- requirements.txt # 存放所需库信息
+|-- result.ipynb # 代码实现
+|-- test_with_label.txt  # 测试集标签预测结果
+```
+
 ## 结果
 > 结果均被写入test_with_label.txt文件中。
